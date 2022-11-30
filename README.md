@@ -7,13 +7,13 @@ Nesse bloco, o exercício de todas as aulas será o desenvolvimento de uma Poké
 ## 📩  O que deve ser entregue nesta etapa?
     
         
-### Exercício 1 - Router
+### 🔀 Exercício 1 - Router
         
 Assim como foi feito em aula, crie as rotas do seu projeto, conectando as três páginas do projeto:PokemonsListScreen ( que é a Home), PokedexScreen e PokemonDetailScreen.
 
 Uma dica para essa atividade é desenhar as arvores de componentes do seu projeto, desde do componente Router, passando pelos componentes páginas e terminando em componentes menores, que podem, inclusive, estar em mais de uma página. 
         
-   ### Exercício 2- Criação de Componentes Visuais
+### 🔲  Exercício 2- Criação de Componentes Visuais
         
 Agora é a hora de botar a mão na massa e começar a codar! Mas antes que vocês comecem, é importante deixarmos claro uma coisa:
         
@@ -40,3 +40,16 @@ Abaixo segue alguns templates para ajudar vocês a visualizar as páginas:
 
 ## Exemplo de layout das paginas descritas acima
 http://nonchalant-afterthought.surge.sh/ 
+
+
+ ### 🗂 Exercício 2 - Collection do Postman
+    
+   Vocês viram que será necessário o uso de alguns endpoints de uma API pública: a Poke API. 
+    
+   Uma coisa bem comum que fazemos quando vamos usar uma API pública, que não possui uma collection pronta, é criar a collection de endpoints que vamos usar. Isso é bem importante para que não precisemos ficar indo e voltando na documentação da API e para que tenhamos todos os endpoints necessários para o projeto separados no Postman. 
+    
+   Portanto, a partir da descrição do projeto que vocês acabaram de ler, criem no Postman, em uma collection separada, os endpoints que vocês imaginam que vão precisar durante o projeto.
+    
+   Para entregar essa collection, pelo Postman, exporte ela para um documento e acrescente esse documento no repositório do projeto. Para exportar uma collection do postman, siga esse print:
+   
+  ![Captura de Tela 2022-11-30 às 02 01 30](https://user-images.githubusercontent.com/71261731/204711603-ba3a7836-55b1-4da6-9804-f42692852755.png) 
